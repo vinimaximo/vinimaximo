@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Vini💀!! 
+### Olá, Eu sou o Vini💀!! 
 
 ![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniMaximo&show_icons=true&theme=onedark)
 
