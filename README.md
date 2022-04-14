@@ -20,7 +20,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/823049173171306496/963957086235017216/22a66ef9fc1067375df29ee4fd04954b.jpg">
 </div>
- ![Snake animation](https://github.com/rafaballerini/vinimaximo/blob/output/github-contribution-grid-snake.svg)
+
 
 ### Tecnologias que uso no meu dia.
 
